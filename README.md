@@ -5,6 +5,7 @@ Simple python script to download all images available on a webpage.
 
 # Requirements:
 - Python3 and pip
+- Chrome or Firefox [Latest Version Only]
 
 # How to setup:
 - Git clone anywhere in your local/remote directory
@@ -18,3 +19,4 @@ pip install -r requirements.txt
 ```python
 python downloadAllImages.py https://loop.baby/products/?sortByParams=topProducts
 ```
+> First run always takes some time because it download all necessary drivers
